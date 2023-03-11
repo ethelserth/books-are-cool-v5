@@ -18,11 +18,12 @@
 }
 
 .index-page {
-  --notion-max-width: 900px;
+  --notion-max-width: 1100px;
 }
 
 .notion-text {
   padding: 0.5em 2px;
+  text-align: center;
 }
 
 .notion-asset-caption {
@@ -49,9 +50,9 @@
 }
 
 .notion-gallery-grid {
-  grid-template-columns: repeat(auto-fill, minmax(270px, 1fr));
-  grid-gap: 6vmin;
-  gap: 6vmin;
+  grid-template-columns: repeat(auto-fill, minmax(255px, 1fr));
+  grid-gap: 3vmin;
+  gap: 3vmin;
 }
 
 .notion-gallery-grid .notion-page-icon-inline {
