@@ -10,14 +10,14 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Books are cool again',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'booksarecool.gr',
   author: 'Agathoklis Tsiokos',
 
   // open graph metadata (optional)
   description: 'Books Are Cool is a book review site. Small Reviews, big books',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
+  // twitter: 'transitive_bs',
   // github: 'transitive-bullshit',
   // linkedin: 'fisch2',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
